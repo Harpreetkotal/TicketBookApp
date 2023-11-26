@@ -58,6 +58,4 @@ dependencies {
     implementation "com.squareup.okhttp3:okhttp:$logging_version"
     implementation "com.squareup.okhttp3:logging-interceptor:$logging_version"
 
-    // - - WP7 Progress Bar
-    implementation 'com.github.shadowalker77:wp7progressbar:1.0.5'
 }
