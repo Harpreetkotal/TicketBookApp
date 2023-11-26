@@ -322,7 +322,7 @@ class SeatSelectionScreenActivity : AppCompatActivity() {
 
         seatSelectionViewModel.setSeatInfoRequestData(
             "ABCD", "New Cinema",
-            "BLR", "2023-11-30T13:22:36Z"
+            "BLR", "2023-11-26T13:22:36Z"
         )
 
 
