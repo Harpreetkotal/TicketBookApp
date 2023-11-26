@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ticket Book App</string>
+    <string name="error_msg_1003">There seems to be error while fetching ticketing data</string>
+    <string name="menu_back_arrow">menu_back_arrow</string>
+    <string name="action_sub_header">Please select seat</string>
+    <string name="seat_selection_header">Movie :%1$s</string>
+    <string name="set_selection_sub_header">%1$s : %2$s | %3$s</string>
+    <string name="default_ticket_count">2 Tickets</string>
+    <string name="empty_view">Fetching Seat Availability Data</string>
+    <string name="next">Next</string>
+    <string name="reset">Reset</string>
+    <string name="currently_allowed_seat_msg">Currently, You can book 2 tickets only</string>
+    <string name="seat_booked_sucessful_msg">Your seats are booked Successfully.</string>
+    <string name="sold_out_seat_error">You can not select the sold out seat</string>
+    <string name="modify_seleced_seat_error">Please click on reset button for reselection of seats</string>
+
+</resources>
