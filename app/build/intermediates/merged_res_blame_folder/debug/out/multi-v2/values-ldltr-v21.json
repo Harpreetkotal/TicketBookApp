@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.work.ticketbook.app-mergeDebugResources-9:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/harpreet.kaur/.gradle/caches/transforms-3/dd9342de6550c270ae41597b08a27912/transformed/appcompat-1.1.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

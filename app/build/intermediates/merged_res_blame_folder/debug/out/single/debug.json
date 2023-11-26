@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-hdpi_vec_edit.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-hdpi/vec_edit.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-hdpi_vec_close.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-hdpi/vec_close.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-ldpi_vec_edit.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-ldpi/vec_edit.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.work.ticketbook.app-main-13:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.work.ticketbook.app-main-13:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-ldpi_vec_close.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-ldpi/vec_close.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.work.ticketbook.app-main-13:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.work.ticketbook.app-main-13:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.work.ticketbook.app-main-13:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-xxxhdpi_vec_arrow_left.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-xxxhdpi/vec_arrow_left.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.work.ticketbook.app-main-13:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-anydpi-v24_vec_close.xml.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-anydpi-v24/vec_close.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable_sold_seat.xml.flat",
+        "source": "com.work.ticketbook.app-main-13:/drawable/sold_seat.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/font_nunito.xml.flat",
+        "source": "com.work.ticketbook.app-main-13:/font/nunito.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-anydpi-v24_vec_arrow_left.xml.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-anydpi-v24/vec_arrow_left.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-xhdpi_vec_edit.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-xhdpi/vec_edit.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.work.ticketbook.app-main-13:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/layout_actionbar_header.xml.flat",
+        "source": "com.work.ticketbook.app-main-13:/layout/actionbar_header.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.work.ticketbook.app-main-13:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.work.ticketbook.app-main-13:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-mdpi_vec_arrow_left.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-mdpi/vec_arrow_left.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.work.ticketbook.app-main-13:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.work.ticketbook.app-main-13:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-xxhdpi_vec_close.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-xxhdpi/vec_close.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-mdpi_vec_close.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-mdpi/vec_close.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-xhdpi_vec_close.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-xhdpi/vec_close.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable_selcted_seat.xml.flat",
+        "source": "com.work.ticketbook.app-main-13:/drawable/selcted_seat.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.work.ticketbook.app-main-13:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable_selected_item_background.xml.flat",
+        "source": "com.work.ticketbook.app-main-13:/drawable/selected_item_background.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-ldpi_vec_arrow_left.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-ldpi/vec_arrow_left.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.work.ticketbook.app-main-13:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-anydpi-v24_vec_edit.xml.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-anydpi-v24/vec_edit.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-xxhdpi_vec_arrow_left.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-xxhdpi/vec_arrow_left.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-xxhdpi_vec_edit.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-xxhdpi/vec_edit.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-mdpi_vec_edit.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-mdpi/vec_edit.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-xhdpi_vec_arrow_left.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-xhdpi/vec_arrow_left.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-hdpi_vec_arrow_left.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-hdpi/vec_arrow_left.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable_available_seat.xml.flat",
+        "source": "com.work.ticketbook.app-main-13:/drawable/available_seat.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/font_nunito_bold.xml.flat",
+        "source": "com.work.ticketbook.app-main-13:/font/nunito_bold.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable_bg_scanner_text.xml.flat",
+        "source": "com.work.ticketbook.app-main-13:/drawable/bg_scanner_text.xml"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-xxxhdpi_vec_edit.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-xxxhdpi/vec_edit.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable-xxxhdpi_vec_close.png.flat",
+        "source": "com.work.ticketbook.app-pngs-6:/drawable-xxxhdpi/vec_close.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/drawable_screen.png.flat",
+        "source": "com.work.ticketbook.app-main-13:/drawable/screen.png"
+    },
+    {
+        "merged": "com.work.ticketbook.app-merged_res-11:/layout_activity_main.xml.flat",
+        "source": "com.work.ticketbook.app-main-13:/layout/activity_main.xml"
+    }
+]
